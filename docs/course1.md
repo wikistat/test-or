@@ -3,7 +3,7 @@
 ## Writing maths in markdown
 
 In the following example, we will write some maths in a markdown file.
-And many things can be done with it. This is great!
+And many things can be done with it. This is great.
 
 $$
 \begin{aligned}
