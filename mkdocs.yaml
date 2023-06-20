@@ -13,16 +13,9 @@ extra_javascript:
 
 
 nav:
-  - Home: index.md
-  - Courses:
-    - Course 1: course1.md
-    - Course 2: 
-      - Course 2-a: course2a.md
-      - Course 2-b: course2b.md
-      
-  - Schedule: schedule.md
-  - Evaluation: evaluation.md
-  - Github repository: https://github.com/wikistat
+  - Course: metamodeling.md
+  - Ressource: ressource
+  - Github repository: https://github.com/wikistat/Computer-experiments
 #theme: slate
 theme:
   name: 'flatly'
